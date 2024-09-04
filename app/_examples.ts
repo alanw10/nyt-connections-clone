@@ -2,23 +2,23 @@ import { Category } from "./_types";
 
 export const categories: Category[] = [
   {
-    category: 'ENCOURAGE, WITH "ON"',
-    items: ["EGG", "GOAD", "SPUR", "URGE"],
+    category: 'GOALKEEPERS',
+    items: ["NEUER", "COURTOUIS", "ONANA", "DE GEA"],
     level: 1,
   },
   {
-    category: "SPHERICAL FOODS",
-    items: ["JAWBREAKER", "MEATBALL", "MOZZARELLA", "ORANGE"],
+    category: "MLS TEAMS",
+    items: ["UNITED", "GALAXY", "RAPIDS", "RED BULLS"],
     level: 2,
   },
   {
-    category: "GROCERY STORE AISLES",
-    items: ["DAIRY", "FROZEN", "PRODUCE", "SNACK"],
+    category: "STRIKERS",
+    items: ["KANE", "ISAK", "HAALAND", "LEWANDOWSKI"],
     level: 3,
   },
   {
-    category: "GO ___",
-    items: ["BANANAS", "FIGURE", "FISH", "STEADY"],
+    category: "BALON D'OR WINNERS",
+    items: ["RONALDO", "MODRIC", "BENZEMA", "MESSI"],
     level: 4,
   },
 ];
