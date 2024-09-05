@@ -8,7 +8,7 @@ export const categories: Category[] = [
   },
   {
     category: "MLS TEAMS",
-    items: ["UNITED", "GALAXY", "r", "RED BULLS"],
+    items: ["UNITED", "GALAXY", "rknknknknknk", "RED BULLS"],
     level: 2,
   },
   {
